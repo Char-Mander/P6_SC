@@ -2,7 +2,7 @@ import pymysql
 import xmlrpc.client
 
 #Configuration
-url = 'http://469d7508.ngrok.io'
+url = 'http://8d5e81e1.ngrok.io'
 db = 'Bodegas_Barylak'
 username = 'bodegasbarylak1@gmail.com'
 password = 'seacercalavendimia'
